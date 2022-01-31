@@ -1,6 +1,6 @@
-![Mastering PHP 8](https://elzero.org/mastering-php8.png)
+![Mastering PHP 8](https://elzero.org/php-bootcamp.png)
 
-# Mastering PHP 8
+# PHP Bootcamp Content
 
 ![0%](https://progress-bar.dev/0/?title=Done)
 
