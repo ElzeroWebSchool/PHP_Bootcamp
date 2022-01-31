@@ -1,4 +1,4 @@
-![Mastering PHP 8](https://elzero.org/php-8.png)
+![Mastering PHP 8](https://elzero.org/mastering-php8.png)
 
 # Mastering PHP 8
 
