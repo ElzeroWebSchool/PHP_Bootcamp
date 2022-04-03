@@ -8,8 +8,8 @@
 
 - [ ] Introduction And Important Information ?
 - [ ] What Is New In 2022
-- [ ] Install PHP And Setup Environment To Work
 - [ ] How To Study The Course ?
+- [ ] Install PHP And Setup Environment To Work
 - [ ] PHP Tags
 - [ ] Escaping Content & Instruction Separation
 - [ ] Comments
