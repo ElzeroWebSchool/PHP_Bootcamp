@@ -2,12 +2,12 @@
 
 # PHP Bootcamp Content
 
-![1%](https://progress-bar.dev/1/?title=Done)
+![2%](https://progress-bar.dev/2/?title=Done)
 
 ### Introduction And Important Fundamentals & Syntax
 
 - [x] Introduction And Important Information ?
-- [ ] What Is New And How To Study The Course ?
+- [x] What Is New And How To Study The Course ?
 - [ ] Install PHP And Setup Environment To Work
 - [ ] PHP Tags
 - [ ] Escaping Content & Instruction Separation
