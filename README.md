@@ -7,7 +7,7 @@
 ### Introduction And Important Fundamentals & Syntax
 
 - [ ] Introduction And Important Information ?
-- [ ] What Is New In 2022
+- [ ] What Is New In The Course In 2022 ?
 - [ ] How To Study The Course ?
 - [ ] Install PHP And Setup Environment To Work
 - [ ] PHP Tags
