@@ -9,8 +9,7 @@
 - [x] Introduction And Important Information ?
 - [x] What Is New And How To Study The Course ?
 - [x] Install PHP And Setup Environment To Work
-- [x] PHP Tags
-- [ ] Escaping Content & Instruction Separation
+- [x] PHP Tags & Instruction Separation
 - [ ] Comments
 
 ### Data Types
