@@ -4,7 +4,7 @@
 
 ![5%](https://progress-bar.dev/5/?title=Done)
 
-### Introduction And Important Fundamentals & Syntax
+### Introduction, Syntax And Fundamentals
 
 - [x] Introduction And Important Information ?
 - [x] What Is New And How To Study The Course ?
