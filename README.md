@@ -8,9 +8,9 @@
 
 - [x] Introduction And Important Information ?
 - [x] What Is New And How To Study The Course ?
-- [x] Install PHP And Setup Environment To Work
+- [x] Install PHP And Prepare Environment To Work
 - [x] PHP Tags & Instruction Separation
-- [x] Comments
+- [x] Comments And Best Practice
 
 ### Data Types
 
