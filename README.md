@@ -14,18 +14,17 @@
 
 ### Data Types
 
-- [ ] Introduction About Data Types
-- [ ] Boolean
-- [ ] Integers
-- [ ] Floating Point Numbers
-- [ ] Strings & Numeric Strings
-- [ ] Arrays
-- [ ] -
+- [ ] Data Types Part 1
+- [ ] Data Types Part 2
+- [ ] Boolean And Use Cases
+- [ ] Integer And Float
+- [ ] String And Numeric String
+- [ ] Array And Use Cases
 
 
 ### Variables & Constants
 
-- [ ] -
+- [ ] Introduction To Variables
 - [ ] -
 - [ ] -
 - [ ] -
