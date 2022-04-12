@@ -14,8 +14,7 @@
 
 ### Data Types
 
-- [ ] Data Types Part 1
-- [ ] Data Types Part 2
+- [x] Introduction To Data Types
 - [ ] Boolean And Use Cases
 - [ ] Integer And Float
 - [ ] String And Numeric String
