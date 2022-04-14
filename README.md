@@ -15,7 +15,7 @@
 ### Data Types
 
 - [x] Introduction To Data Types
-- [ ] Type Juggling
+- [x] Type Juggling And Automatic Type Conversion
 - [ ] Type Casting And Settype
 - [ ] Boolean And Use Cases
 - [ ] Integer And Float
