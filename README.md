@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-![6%](https://progress-bar.dev/6/?title=Done)
+![8%](https://progress-bar.dev/8/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
