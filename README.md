@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-![9%](https://progress-bar.dev/9/?title=Done)
+![10%](https://progress-bar.dev/10/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -18,8 +18,7 @@
 - [x] Type Juggling And Automatic Type Conversion
 - [x] Type Casting
 - [x] Boolean And Converting To Booleans
-- [ ] Integer And Float
-- [ ] String And Numeric String
+- [x] String And Escaping
 - [ ] Array And Use Cases
 
 
