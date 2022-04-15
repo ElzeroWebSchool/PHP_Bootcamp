@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-![11%](https://progress-bar.dev/11/?title=Done)
+![12%](https://progress-bar.dev/12/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -20,7 +20,7 @@
 - [x] 009 - Boolean And Converting To Booleans
 - [x] 010 - String And Escaping
 - [x] 011 - Heredoc And Nowdoc
-- [ ] Array And Use Cases
+- [x] 012 - Array With Complex Tests
 
 
 ### Variables & Constants
