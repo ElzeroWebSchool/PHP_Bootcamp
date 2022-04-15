@@ -19,6 +19,7 @@
 - [x] Type Casting
 - [x] Boolean And Converting To Booleans
 - [x] String And Escaping
+- [x] Heredoc And Nowdoc
 - [ ] Array And Use Cases
 
 
