@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-![13%](https://progress-bar.dev/13/?title=Done)
+![14%](https://progress-bar.dev/14/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -26,7 +26,7 @@
 ### Variables & Constants
 
 - [x] 013 - Introduction To Variables And Naming Rules
-- [ ] Testing Variables In Real World
+- [x] 014 - Testing Variables In Real World
 - [ ] User-Defined Variables - Variable Scope
 - [ ] User-Defined Variables - Variable Variables
 - [ ] User-Defined Variables - Assign By Reference
