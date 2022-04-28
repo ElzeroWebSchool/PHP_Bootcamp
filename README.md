@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-![15%](https://progress-bar.dev/15/?title=Done)
+![16%](https://progress-bar.dev/16/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -28,7 +28,7 @@
 - [x] 013 - Introduction To Variables And Naming Rules
 - [x] 014 - Testing Variables In Real World
 - [x] 015 - Variable Variable
-- [ ] Assign By Value And By Reference
+- [x] 016 - Assign By Value And By References
 - [ ] Pre-Defined Variables
 - [ ] Testing Pre-Defined Variables In Real World
 - [ ] Introduction To Constants And Naming Rules
