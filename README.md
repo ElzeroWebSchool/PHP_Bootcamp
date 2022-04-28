@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-![16%](https://progress-bar.dev/16/?title=Done)
+![17%](https://progress-bar.dev/17/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -22,15 +22,13 @@
 - [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 011 - Heredoc And Nowdoc
 - [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 012 - Array With Complex Tests
 
-
 ### Variables & Constants
 
 - [x] 013 - Introduction To Variables And Naming Rules
 - [x] 014 - Testing Variables In Real World
 - [x] 015 - Variable Variable
 - [x] 016 - Assign By Value And By References
-- [ ] Pre-Defined Variables
-- [ ] Testing Pre-Defined Variables In Real World
+- [x] 017 - Pre-Defined Variables And Test
 - [ ] Introduction To Constants And Naming Rules
-- [ ] Predefined constants
+- [ ] Predefined Constants
 - [ ] Magic Constants
