@@ -29,7 +29,7 @@
 - [x] 015 - Variable Variable
 - [x] 016 - Assign By Value And By References
 - [x] 017 - Pre-Defined Variables And Test
-- [ ] Introduction To Constants And Naming Rules
+- [x] 018 - Introduction To Constants
 - [ ] Predefined Constants
 - [ ] Magic Constants
 - [ ] Reserved Keywords
