@@ -25,9 +25,13 @@
 
 ### Variables & Constants
 
-- [ ] Introduction To Variables
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] Introduction To Variables And Naming Rules
+- [ ] Testing Variables In Real World
+- [ ] User-Defined Variables - Variable Scope
+- [ ] User-Defined Variables - Variable Variables
+- [ ] User-Defined Variables - Assign By Reference
+- [ ] Pre-Defined Variables
+- [ ] Test Pre-Defined Variables In Real World
+- [ ] Introduction To Constants And Naming Rules
+- [ ] Predefined constants
+- [ ] Magic Constants
