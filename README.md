@@ -32,5 +32,4 @@
 - [x] 016 - Assign By Value And By References
 - [x] 017 - Pre-Defined Variables And Test
 - [x] 018 - Introduction To Constants
-- [ ] Predefined & Magic Constants
-- [ ] Reserved Keywords & This Variable
+- [ ] Predefined & Magic Constants & Reserved Keywords
