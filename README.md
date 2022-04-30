@@ -32,4 +32,16 @@
 - [x] 016 - Assign By Value And By References
 - [x] 017 - Pre-Defined Variables And Test
 - [x] 018 - Introduction To Constants
-- [ ] Predefined & Magic Constants & Reserved Keywords
+- [x] 019 - Predefined & Magic Constants & Reserved Keywords
+
+### Operators
+
+- [ ] Arithmetic Operators
+- [ ] Assignment Operators
+- [ ] Comparison Operators Part 1
+- [ ] Comparison Operators Part 2
+- [ ] Incrementing & Decrementing Operators
+- [ ] Logical Operators
+- [ ] String Operators
+- [ ] Array Operators
+- [ ] Type Operators
