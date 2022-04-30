@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 18 From 150 ]
+[ 20 From 150 ]
 
-![12%](https://progress-bar.dev/12/?title=Done)
+![13%](https://progress-bar.dev/13/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -36,12 +36,12 @@
 
 ### Operators
 
-- [ ] Arithmetic Operators
-- [ ] Assignment Operators
-- [ ] Comparison Operators Part 1
-- [ ] Comparison Operators Part 2
-- [ ] Incrementing & Decrementing Operators
-- [ ] Logical Operators
-- [ ] String Operators
-- [ ] Array Operators
-- [ ] Type Operators
+- [x] 020 - Arithmetic Operators
+- [ ] 021 - Assignment Operators
+- [ ] 022 - Comparison Operators Part 1
+- [ ] 023 - Comparison Operators Part 2
+- [ ] 024 - Incrementing & Decrementing Operators
+- [ ] 025 - Logical Operators
+- [ ] 026 - String Operators
+- [ ] 027 - Array Operators
+- [ ] 028 - Type Operators
