@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 25 From 150 ]
+[ 26 From 150 ]
 
-![16%](https://progress-bar.dev/16/?title=Done)
+![17%](https://progress-bar.dev/17/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -42,7 +42,7 @@
 - [x] 023 - Comparison Operators Part 2
 - [x] 024 - Incrementing & Decrementing Operators
 - [x] 025 - Logical Operators
-- [ ] 026 - String Operators
+- [x] 026 - String Operators
 - [ ] 027 - Array Operators
 - [ ] 028 - Type Operators
 - [ ] 029 - Error Control Operators
