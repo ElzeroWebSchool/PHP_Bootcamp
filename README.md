@@ -44,6 +44,5 @@
 - [x] 025 - Logical Operators
 - [x] 026 - String Operators
 - [ ] 027 - Array Operators
-- [ ] 028 - Type Operators
-- [ ] 029 - Error Control Operators
-- [ ] 030 - Operator Precedence
+- [ ] 028 - Error Control Operators
+- [ ] 029 - Operator Precedence
