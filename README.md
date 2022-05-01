@@ -46,3 +46,18 @@
 - [ ] 027 - Array Operators
 - [ ] 028 - Error Control Operators
 - [ ] 029 - Operator Precedence
+
+### Control Structures
+
+- [ ] Language Constructs
+- [ ] If Condition
+- [ ] Else And Elseif 
+- [ ] Ternary Conditional Operator
+- [ ] Advanced If And Alternative Syntax 
+- [ ] Switch
+- [ ] Switch Training
+- [ ] The Concept Of Loop
+- [ ] Loop - Foreach
+- [ ] Loop - For 
+- [ ] Loop - While, Do While
+- [ ] Require And Include
