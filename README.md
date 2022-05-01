@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 24 From 150 ]
+[ 25 From 150 ]
 
 ![16%](https://progress-bar.dev/16/?title=Done)
 
@@ -41,7 +41,7 @@
 - [x] 022 - Comparison Operators Part 1
 - [x] 023 - Comparison Operators Part 2
 - [x] 024 - Incrementing & Decrementing Operators
-- [ ] 025 - Logical Operators
+- [x] 025 - Logical Operators
 - [ ] 026 - String Operators
 - [ ] 027 - Array Operators
 - [ ] 028 - Type Operators
