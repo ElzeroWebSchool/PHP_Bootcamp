@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 26 From 150 ]
+[ 27 From 150 ]
 
 ![17%](https://progress-bar.dev/17/?title=Done)
 
@@ -43,7 +43,7 @@
 - [x] 024 - Incrementing & Decrementing Operators
 - [x] 025 - Logical Operators
 - [x] 026 - String Operators
-- [ ] 027 - Array Operators
+- [x] 027 - Array Operators
 - [ ] 028 - Error Control Operators
 - [ ] 029 - Operator Precedence
 
