@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 27 From 150 ]
+[ 28 From 150 ]
 
-![17%](https://progress-bar.dev/17/?title=Done)
+![18%](https://progress-bar.dev/18/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -44,7 +44,7 @@
 - [x] 025 - Logical Operators
 - [x] 026 - String Operators
 - [x] 027 - Array Operators
-- [ ] 028 - Error Control Operators
+- [x] 028 - Error Control Operators
 - [ ] 029 - Operator Precedence
 
 ### Control Structures
