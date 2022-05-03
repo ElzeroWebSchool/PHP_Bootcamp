@@ -49,11 +49,10 @@
 
 ### Control Structures
 
-- [ ] Language Constructs
-- [ ] If Condition
-- [ ] Else And Elseif 
+- [ ] If, Elseif, Else
+- [ ] Nested If And Training
+- [ ] Advanced If And Alternative Syntax
 - [ ] Ternary Conditional Operator
-- [ ] Advanced If And Alternative Syntax 
 - [ ] Switch
 - [ ] Switch Training
 - [ ] The Concept Of Loop
