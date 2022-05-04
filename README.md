@@ -56,9 +56,8 @@
 - [x] 034 - Nested If Advanced Practice
 - [x] 035 - Ternary Conditional Operator
 - [x] 036 - Switch
-- [ ] Switch Training
 - [ ] The Concept Of Loop
+- [ ] Loop - While, Do While
 - [ ] Loop - Foreach
 - [ ] Loop - For 
-- [ ] Loop - While, Do While
 - [ ] Require And Include
