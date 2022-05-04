@@ -4,7 +4,7 @@
 
 [ 35 From 150 ]
 
-![23%](https://progress-bar.dev/23/?title=Done)
+![24%](https://progress-bar.dev/24/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -55,7 +55,7 @@
 - [x] 033 - If, Elseif, Else Alternative Syntax
 - [x] 034 - Nested If Advanced Practice
 - [x] 035 - Ternary Conditional Operator
-- [ ] Switch
+- [x] 036 - Switch
 - [ ] Switch Training
 - [ ] The Concept Of Loop
 - [ ] Loop - Foreach
