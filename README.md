@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 33 From 150 ]
+[ 34 From 150 ]
 
 ![22%](https://progress-bar.dev/22/?title=Done)
 
@@ -53,7 +53,7 @@
 - [x] 031 - If, Elseif, Else Real Life Examples
 - [x] 032 - If, Elseif, Else Advanced Practice 
 - [x] 033 - If, Elseif, Else Alternative Syntax
-- [ ] 034 - Nested If And Training
+- [x] 034 - Nested If Advanced Practice
 - [ ] Ternary Conditional Operator
 - [ ] Switch
 - [ ] Switch Training
