@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 32 From 150 ]
+[ 33 From 150 ]
 
-![21%](https://progress-bar.dev/21/?title=Done)
+![22%](https://progress-bar.dev/22/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -52,7 +52,7 @@
 - [x] 030 - If, Elseif, Else Basics
 - [x] 031 - If, Elseif, Else Real Life Examples
 - [x] 032 - If, Elseif, Else Advanced Practice 
-- [ ] 033 - Advanced If And Alternative Syntax
+- [x] 033 - If, Elseif, Else Alternative Syntax
 - [ ] 034 - Nested If And Training
 - [ ] Ternary Conditional Operator
 - [ ] Switch
