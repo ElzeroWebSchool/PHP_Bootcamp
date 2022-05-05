@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 40 From 150 ]
+[ 41 From 150 ]
 
-![26%](https://progress-bar.dev/26/?title=Done)
+![27%](https://progress-bar.dev/27/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -60,6 +60,6 @@
 - [x] 038 - Do While Loop
 - [x] 039 - Loop - For
 - [x] 040 - Loop - Foreach 
-- [ ] Break, Continue
+- [x] 041 - Break, Continue
 - [ ] Goto
 - [ ] Require And Include
