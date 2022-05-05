@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 35 From 150 ]
+[ 38 From 150 ]
 
-![24%](https://progress-bar.dev/24/?title=Done)
+![25%](https://progress-bar.dev/25/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -56,8 +56,8 @@
 - [x] 034 - Nested If Advanced Practice
 - [x] 035 - Ternary Conditional Operator
 - [x] 036 - Switch
-- [ ] The Concept Of Loop
-- [ ] Loop - While, Do While
+- [x] 037 - While And Concept Of Loop
+- [x] 038 - Do While Loop
 - [ ] Loop - Foreach
 - [ ] Loop - For 
 - [ ] Require And Include
