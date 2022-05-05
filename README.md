@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 41 From 150 ]
+[ 42 From 150 ]
 
-![27%](https://progress-bar.dev/27/?title=Done)
+![28%](https://progress-bar.dev/28/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -61,5 +61,15 @@
 - [x] 039 - Loop - For
 - [x] 040 - Loop - Foreach 
 - [x] 041 - Break, Continue
+- [x] 042 - Require And Include
+
+
+
+
+
+
+
+### Collection 
+
 - [ ] Goto
-- [ ] Require And Include
+
