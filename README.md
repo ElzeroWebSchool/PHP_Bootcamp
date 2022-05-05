@@ -61,4 +61,5 @@
 - [x] 039 - Loop - For
 - [x] 040 - Loop - Foreach 
 - [ ] Break, Continue
+- [ ] Goto
 - [ ] Require And Include
