@@ -26,13 +26,13 @@
 
 ### Variables & Constants
 
-- [x] 013 - Introduction To Variables And Naming Rules
-- [x] 014 - Testing Variables In Real World
-- [x] 015 - Variable Variable
-- [x] 016 - Assign By Value And By References
-- [x] 017 - Pre-Defined Variables And Test
-- [x] 018 - Introduction To Constants
-- [x] 019 - Predefined & Magic Constants & Reserved Keywords
+- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 013 - Introduction To Variables And Naming Rules
+- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 014 - Testing Variables In Real World
+- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 015 - Variable Variable
+- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 016 - Assign By Value And By References
+- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 017 - Pre-Defined Variables And Test
+- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 018 - Introduction To Constants
+- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 019 - Predefined & Magic Constants & Reserved Keywords
 
 ### Operators
 
