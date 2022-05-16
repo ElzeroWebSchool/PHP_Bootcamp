@@ -8,44 +8,44 @@
 
 ### Introduction, Syntax And Fundamentals
 
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 001 - Introduction And Important Information ?
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 002 - What Is New And How To Study The Course ?
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 003 - Install PHP And Prepare Environment To Work
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 004 - PHP Tags & Instruction Separation
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 005 - Comments And Best Practice
+- [x] ❤️ `Uploaded` 001 - Introduction And Important Information ?
+- [x] ❤️ `Uploaded` 002 - What Is New And How To Study The Course ?
+- [x] ❤️ `Uploaded` 003 - Install PHP And Prepare Environment To Work
+- [x] ❤️ `Uploaded` 004 - PHP Tags & Instruction Separation
+- [x] ❤️ `Uploaded` 005 - Comments And Best Practice
 
 ### Data Types
 
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 006 - Introduction To Data Types
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 007 - Type Juggling And Automatic Type Conversion
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 008 - Type Casting
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 009 - Boolean And Converting To Booleans
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 010 - String And Escaping
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 011 - Heredoc And Nowdoc
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 012 - Array With Complex Tests
+- [x] ❤️ `Uploaded` 006 - Introduction To Data Types
+- [x] ❤️ `Uploaded` 007 - Type Juggling And Automatic Type Conversion
+- [x] ❤️ `Uploaded` 008 - Type Casting
+- [x] ❤️ `Uploaded` 009 - Boolean And Converting To Booleans
+- [x] ❤️ `Uploaded` 010 - String And Escaping
+- [x] ❤️ `Uploaded` 011 - Heredoc And Nowdoc
+- [x] ❤️ `Uploaded` 012 - Array With Complex Tests
 
 ### Variables & Constants
 
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 013 - Introduction To Variables And Naming Rules
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 014 - Testing Variables In Real World
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 015 - Variable Variable
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 016 - Assign By Value And By References
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 017 - Pre-Defined Variables And Test
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 018 - Introduction To Constants
-- [x] ![#218bff](https://via.placeholder.com/12/218bff/000000?text=+) `Uploaded` 019 - Predefined & Magic Constants & Reserved Keywords
+- [x] ❤️ `Uploaded` 013 - Introduction To Variables And Naming Rules
+- [x] ❤️ `Uploaded` 014 - Testing Variables In Real World
+- [x] ❤️ `Uploaded` 015 - Variable Variable
+- [x] ❤️ `Uploaded` 016 - Assign By Value And By References
+- [x] ❤️ `Uploaded` 017 - Pre-Defined Variables And Test
+- [x] ❤️ `Uploaded` 018 - Introduction To Constants
+- [x] ❤️ `Uploaded` 019 - Predefined & Magic Constants & Reserved Keywords
 
 ### Operators
 
-- [x] 020 - Arithmetic Operators
-- [x] 021 - Assignment Operators
-- [x] 022 - Comparison Operators Part 1
-- [x] 023 - Comparison Operators Part 2
-- [x] 024 - Incrementing & Decrementing Operators
-- [x] 025 - Logical Operators
-- [x] 026 - String Operators
-- [x] 027 - Array Operators
-- [x] 028 - Error Control Operators
-- [x] 029 - Operator Precedence
+- [x] ❤️ `Uploaded` 020 - Arithmetic Operators
+- [x] ❤️ `Uploaded` 021 - Assignment Operators
+- [x] ❤️ `Uploaded` 022 - Comparison Operators Part 1
+- [x] ❤️ `Uploaded` 023 - Comparison Operators Part 2
+- [x] ❤️ `Uploaded` 024 - Incrementing & Decrementing Operators
+- [x] ❤️ `Uploaded` 025 - Logical Operators
+- [x] ❤️ `Uploaded` 026 - String Operators
+- [x] ❤️ `Uploaded` 027 - Array Operators
+- [x] ❤️ `Uploaded` 028 - Error Control Operators
+- [x] ❤️ `Uploaded` 029 - Operator Precedence
 
 ### Control Structures
 
