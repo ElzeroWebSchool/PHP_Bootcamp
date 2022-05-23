@@ -68,7 +68,6 @@
 - [x] 043 - Function Introduction And DRY Concept
 - [x] 044 - Function Advanced Example With Parameters And Arguments
 - [x] 045 - Function Return And Echo
-- [ ] Function Return vs Echo Training
 - [ ] Variable Function
 - [ ] Passing Parameters By Reference And Default Parameters
 - [ ] Built-In Function And Check If Function Exists
