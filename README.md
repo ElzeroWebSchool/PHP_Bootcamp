@@ -66,7 +66,6 @@
 ### Functions
 
 - [ ] Function Introduction And DRY Concept
-- [ ] Function With Parameters + Arguments
 - [ ] Function Returning A Values
 - [ ] Function Return vs Echo Training
 - [ ] Variable Function
