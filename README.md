@@ -4,7 +4,7 @@
 
 [ 42 From 150 ]
 
-![28%](https://progress-bar.dev/28/?title=Done)
+![30%](https://progress-bar.dev/30/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -65,9 +65,9 @@
 
 ### Functions
 
-- [ ] Function Introduction And DRY Concept
-- [ ] Function Advanced Example With Parameters And Arguments
-- [ ] Function Returning A Values
+- [x] 043 - Function Introduction And DRY Concept
+- [x] 044 - Function Advanced Example With Parameters And Arguments
+- [x] 045 - Function Return And Echo
 - [ ] Function Return vs Echo Training
 - [ ] Variable Function
 - [ ] Passing Parameters By Reference And Default Parameters
