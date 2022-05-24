@@ -68,7 +68,7 @@
 - [x] 043 - Function Introduction And DRY Concept
 - [x] 044 - Function Advanced Example With Parameters And Arguments
 - [x] 045 - Function Return And Echo
-- [ ] Function Default Parameter Value
+- [x] 046 - Function Default Parameter Value
 - [ ] Function Variable Arguments Lists
 - [ ] Function Variable
 - [ ] -
