@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 47 From 150 ]
+[ 48 From 150 ]
 
-![31%](https://progress-bar.dev/31/?title=Done)
+![32%](https://progress-bar.dev/32/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -70,7 +70,7 @@
 - [x] 045 - Function Return And Echo
 - [x] 046 - Function Default Parameter Value
 - [x] 047 - Function Variable Arguments Lists
-- [ ] Function Mixed Content Training
+- [x] 048 - Function Training And Unpacking Arguments
 - [ ] Function Variable
 - [ ] -
 - [ ] -
