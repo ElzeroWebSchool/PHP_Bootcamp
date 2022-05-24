@@ -68,8 +68,15 @@
 - [x] 043 - Function Introduction And DRY Concept
 - [x] 044 - Function Advanced Example With Parameters And Arguments
 - [x] 045 - Function Return And Echo
-- [ ] Variable Function
-- [ ] Passing Parameters By Reference And Default Parameters
+- [ ] Function Default Parameter Value
+- [ ] Function Variable Arguments Lists
+- [ ] Function Variable
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] Passing Parameters By Reference
 - [ ] Built-In Function And Check If Function Exists
 - [ ] Anonymous Functions
 - [ ] Arrow Functions
+- [ ] Function Inside Function
+- [ ] Function Recursion
