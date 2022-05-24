@@ -70,6 +70,7 @@
 - [x] 045 - Function Return And Echo
 - [x] 046 - Function Default Parameter Value
 - [ ] Function Variable Arguments Lists
+- [ ] Function Mixed Content Training
 - [ ] Function Variable
 - [ ] -
 - [ ] -
