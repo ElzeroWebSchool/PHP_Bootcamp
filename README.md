@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 48 From 150 ]
+[ 49 From 150 ]
 
 ![32%](https://progress-bar.dev/32/?title=Done)
 
@@ -71,12 +71,9 @@
 - [x] 046 - Function Default Parameter Value
 - [x] 047 - Function Variable Arguments Lists
 - [x] 048 - Function Training And Unpacking Arguments
-- [ ] Function Variable
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] Passing Parameters By Reference
-- [ ] Built-In Function And Check If Function Exists
+- [x] 049 - Variable Function 
+- [ ] Function Passing Parameters By Reference
+- [ ] Built-In Function
 - [ ] Anonymous Functions
 - [ ] Arrow Functions
 - [ ] Function Inside Function
