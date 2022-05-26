@@ -75,5 +75,21 @@
 - [x] 050 - Passing Arguments By Reference And Return Type Declaration
 - [x] 051 - Anonymous Function
 - [x] 052 - Arrow Function
-- [ ] Function Inside Function
-- [ ] Function Recursion
+
+### String And String Functions
+
+- [ ] String Advanced Information And Trainings
+- [ ] String Functions Part 01 [ 6 Functions ]
+- [ ] String Functions Part 02 [ 6 Functions ]
+- [ ] String Functions Part 03 [ 6 Functions ]
+- [ ] String Functions Part 04 [ 6 Functions ]
+- [ ] String Functions Part 05 [ 6 Functions ]
+- [ ] String Functions Part 06 [ 6 Functions ]
+- [ ] String Functions Part 07 [ 6 Functions ]
+- [ ] String Functions Part 08 [ 6 Functions ]
+- [ ] String Functions Part 09 [ 6 Functions ]
+- [ ] String Functions Part 10 [ 6 Functions ]
+- [ ] String Functions Part 11 [ 6 Functions ]
+- [ ] String Functions Part 12 [ 6 Functions ]
+
+### Array And Atrray Functions
