@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 50 From 150 ]
+[ 52 From 150 ]
 
-![33%](https://progress-bar.dev/33/?title=Done)
+![34%](https://progress-bar.dev/34/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -73,8 +73,7 @@
 - [x] 048 - Function Training And Unpacking Arguments
 - [x] 049 - Variable Function 
 - [x] 050 - Passing Arguments By Reference And Return Type Declaration
-- [ ] Built-In Function
-- [ ] Anonymous Functions
-- [ ] Arrow Functions
+- [x] 051 - Anonymous Function
+- [x] 052 - Arrow Function
 - [ ] Function Inside Function
 - [ ] Function Recursion
