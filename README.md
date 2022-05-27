@@ -93,3 +93,17 @@
 - [ ] String Functions Part 12 [ 6 Functions ]
 
 ### Built-In Functions => Array And Array Functions
+
+- [ ] Array Advanced Information And Trainings
+- [ ] Array Functions Part 01 [ 6 Functions ]
+- [ ] Array Functions Part 02 [ 6 Functions ]
+- [ ] Array Functions Part 03 [ 6 Functions ]
+- [ ] Array Functions Part 04 [ 6 Functions ]
+- [ ] Array Functions Part 05 [ 6 Functions ]
+- [ ] Array Functions Part 06 [ 6 Functions ]
+- [ ] Array Functions Part 07 [ 6 Functions ]
+- [ ] Array Functions Part 08 [ 6 Functions ]
+- [ ] Array Functions Part 09 [ 6 Functions ]
+- [ ] Array Functions Part 10 [ 6 Functions ]
+- [ ] Array Functions Part 11 [ 6 Functions ]
+- [ ] Array Functions Part 12 [ 6 Functions ]
