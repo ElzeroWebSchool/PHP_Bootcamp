@@ -76,7 +76,7 @@
 - [x] 051 - Anonymous Function
 - [x] 052 - Arrow Function
 
-### String And String Functions
+### Built-In Functions => String And String Functions
 
 - [ ] String Advanced Information And Trainings
 - [ ] String Functions Part 01 [ 6 Functions ]
@@ -92,4 +92,4 @@
 - [ ] String Functions Part 11 [ 6 Functions ]
 - [ ] String Functions Part 12 [ 6 Functions ]
 
-### Array And Atrray Functions
+### Built-In Functions => Array And Array Functions
