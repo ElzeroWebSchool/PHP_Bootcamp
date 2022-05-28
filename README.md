@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 54 From 150 ]
+[ 55 From 150 ]
 
 ![36%](https://progress-bar.dev/36/?title=Done)
 
@@ -80,7 +80,7 @@
 
 - [x] 053 - String Access And Update Elements
 - [x] 054 - String Functions Part 01 [ 6 Functions ]
-- [ ] String Functions Part 02 [ 6 Functions ]
+- [x] 055 - String Functions Part 02 [ 7 Functions ]
 - [ ] String Functions Part 03 [ 6 Functions ]
 - [ ] String Functions Part 04 [ 6 Functions ]
 - [ ] String Functions Part 05 [ 6 Functions ]
