@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 52 From 150 ]
+[ 53 From 150 ]
 
-![34%](https://progress-bar.dev/34/?title=Done)
+![35%](https://progress-bar.dev/35/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -78,7 +78,7 @@
 
 ### Built-In Functions => String And String Functions
 
-- [ ] String Advanced Information And Trainings
+- [x] 053 - String Access And Update Elements
 - [ ] String Functions Part 01 [ 6 Functions ]
 - [ ] String Functions Part 02 [ 6 Functions ]
 - [ ] String Functions Part 03 [ 6 Functions ]
