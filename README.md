@@ -4,7 +4,7 @@
 
 [ 54 From 150 ]
 
-![35%](https://progress-bar.dev/35/?title=Done)
+![36%](https://progress-bar.dev/36/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
