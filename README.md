@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 53 From 150 ]
+[ 54 From 150 ]
 
 ![35%](https://progress-bar.dev/35/?title=Done)
 
@@ -79,7 +79,7 @@
 ### Built-In Functions => String And String Functions
 
 - [x] 053 - String Access And Update Elements
-- [ ] String Functions Part 01 [ 6 Functions ]
+- [x] 054 - String Functions Part 01 [ 6 Functions ]
 - [ ] String Functions Part 02 [ 6 Functions ]
 - [ ] String Functions Part 03 [ 6 Functions ]
 - [ ] String Functions Part 04 [ 6 Functions ]
