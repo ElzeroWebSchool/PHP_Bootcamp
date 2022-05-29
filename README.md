@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 56 From 150 ]
+[ 57 From 150 ]
 
-![37%](https://progress-bar.dev/37/?title=Done)
+![38%](https://progress-bar.dev/38/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -82,7 +82,7 @@
 - [x] 054 - String Functions Part 01 [ 6 Functions ]
 - [x] 055 - String Functions Part 02 [ 7 Functions ]
 - [x] 056 - String Functions Part 03 [ 5 Functions ]
-- [ ] String Functions Part 04 [ 6 Functions ]
+- [x] 057 - String Functions Part 04 [ 5 Functions ]
 - [ ] String Functions Part 05 [ 6 Functions ]
 - [ ] String Functions Part 06 [ 6 Functions ]
 - [ ] String Functions Part 07 [ 6 Functions ]
