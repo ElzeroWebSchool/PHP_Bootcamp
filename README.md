@@ -83,7 +83,7 @@
 - [x] 055 - String Functions Part 02 [ 7 Functions ]
 - [x] 056 - String Functions Part 03 [ 5 Functions ]
 - [x] 057 - String Functions Part 04 [ 5 Functions ]
-- [ ] String Functions Part 05 [ 6 Functions ]
+- [ ] 058 - String Functions Part 05 [ 4 Functions ]
 - [ ] String Functions Part 06 [ 6 Functions ]
 - [ ] String Functions Part 07 [ 6 Functions ]
 - [ ] String Functions Part 08 [ 6 Functions ]
