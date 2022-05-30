@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 57 From 150 ]
+[ 58 From 150 ]
 
 ![38%](https://progress-bar.dev/38/?title=Done)
 
@@ -83,7 +83,7 @@
 - [x] 055 - String Functions Part 02 [ 7 Functions ]
 - [x] 056 - String Functions Part 03 [ 5 Functions ]
 - [x] 057 - String Functions Part 04 [ 5 Functions ]
-- [ ] 058 - String Functions Part 05 [ 4 Functions ]
+- [x] 058 - String Functions Part 05 [ 4 Functions ]
 - [ ] String Functions Part 06 [ 6 Functions ]
 - [ ] String Functions Part 07 [ 6 Functions ]
 - [ ] String Functions Part 08 [ 6 Functions ]
