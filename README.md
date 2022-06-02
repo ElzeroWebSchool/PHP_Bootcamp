@@ -76,7 +76,7 @@
 - [x] 051 - Anonymous Function
 - [x] 052 - Arrow Function
 
-### Built-In Functions => String And String Functions
+### Built-In Functions => String And String Functions [Total 30]
 
 - [x] 053 - String Access And Update Elements
 - [x] 054 - String Functions Part 01 [ 6 Functions ]
