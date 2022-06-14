@@ -65,16 +65,16 @@
 
 ### Functions
 
-- [x] 043 - Function Introduction And DRY Concept
-- [x] 044 - Function Advanced Example With Parameters And Arguments
-- [x] 045 - Function Return And Echo
-- [x] 046 - Function Default Parameter Value
-- [x] 047 - Function Variable Arguments Lists
-- [x] 048 - Function Training And Unpacking Arguments
-- [x] 049 - Variable Function 
-- [x] 050 - Passing Arguments By Reference And Return Type Declaration
-- [x] 051 - Anonymous Function
-- [x] 052 - Arrow Function
+- [x] `Uploaded` 043 - Function Introduction And DRY Concept
+- [x] `Uploaded` 044 - Function Advanced Example With Parameters And Arguments
+- [x] `Uploaded` 045 - Function Return And Echo
+- [x] `Uploaded` 046 - Function Default Parameter Value
+- [x] `Uploaded` 047 - Function Variable Arguments Lists
+- [x] `Uploaded` 048 - Function Training And Unpacking Arguments
+- [x] `Uploaded` 049 - Variable Function 
+- [x] `Uploaded` 050 - Passing Arguments By Reference And Return Type Declaration
+- [x] `Uploaded` 051 - Anonymous Function
+- [x] `Uploaded` 052 - Arrow Function
 
 ### Built-In Functions => String And String Functions [Total 30]
 
