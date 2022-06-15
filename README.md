@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 61 From 150 ]
+[ 62 From 150 ]
 
-![40%](https://progress-bar.dev/40/?title=Done)
+![41%](https://progress-bar.dev/41/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -87,8 +87,7 @@
 - [x] 059 - String Functions str_replace, str_ireplace
 - [x] 060 - String Functions substr_replace
 - [x] 061 - String Functions Part 08 [ 4 Functions ]
-- [ ] String Functions Part 09 [ 6 Functions ]
-- [ ] String Functions Part 10 [ 6 Functions ]
+- [x] 062 - String Functions Part 09 [ 3 Functions ]
 
 ### Built-In Functions => Array And Array Functions
 
