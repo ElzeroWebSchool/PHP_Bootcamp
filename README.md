@@ -78,16 +78,16 @@
 
 ### Built-In Functions => String And String Functions [Total 30]
 
-- [x] 053 - String Access And Update Elements
-- [x] 054 - String Functions Part 01 [ 6 Functions ]
-- [x] 055 - String Functions Part 02 [ 7 Functions ]
-- [x] 056 - String Functions Part 03 [ 5 Functions ]
-- [x] 057 - String Functions Part 04 [ 5 Functions ]
-- [x] 058 - String Functions Part 05 [ 4 Functions ]
-- [x] 059 - String Functions str_replace, str_ireplace
-- [x] 060 - String Functions substr_replace
-- [x] 061 - String Functions Part 08 [ 4 Functions ]
-- [x] 062 - String Functions Part 09 [ 3 Functions ]
+- [x] `Uploaded` 053 - String Access And Update Elements
+- [x] `Uploaded` 054 - String Functions Part 01 [ 6 Functions ]
+- [x] `Uploaded` 055 - String Functions Part 02 [ 7 Functions ]
+- [x] `Uploaded` 056 - String Functions Part 03 [ 5 Functions ]
+- [x] `Uploaded` 057 - String Functions Part 04 [ 5 Functions ]
+- [x] `Uploaded` 058 - String Functions Part 05 [ 4 Functions ]
+- [x] `Uploaded` 059 - String Functions str_replace, str_ireplace
+- [x] `Uploaded` 060 - String Functions substr_replace
+- [x] `Uploaded` 061 - String Functions Part 08 [ 4 Functions ]
+- [x] `Uploaded` 062 - String Functions Part 09 [ 3 Functions ]
 
 ### Built-In Functions => Array And Array Functions
 
