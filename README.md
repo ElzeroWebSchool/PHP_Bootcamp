@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 66 From 150 ]
+[ 67 From 150 ]
 
 ![44%](https://progress-bar.dev/44/?title=Done)
 
@@ -95,7 +95,7 @@
 - [x] 064 - Array Functions Part 02 [ 5 Functions ]
 - [x] 065 - Array Functions Part 03 [ 5 Functions ]
 - [x] 066 - Array Functions Part 04 [ 5 Functions ]
-- [ ] Array Functions Part 05 [ 6 Functions ]
+- [x] 067 - Array Functions Part 04 [ 5 Functions ]
 - [ ] Array Functions Part 06 [ 6 Functions ]
 - [ ] Array Functions Part 07 [ 6 Functions ]
 - [ ] Array Functions Part 08 [ 6 Functions ]
