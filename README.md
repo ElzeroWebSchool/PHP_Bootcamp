@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 67 From 150 ]
+[ 68 From 150 ]
 
-![44%](https://progress-bar.dev/44/?title=Done)
+![45%](https://progress-bar.dev/45/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -96,10 +96,7 @@
 - [x] 065 - Array Functions Part 03 [ 5 Functions ]
 - [x] 066 - Array Functions Part 04 [ 5 Functions ]
 - [x] 067 - Array Functions Part 04 [ 5 Functions ]
-- [ ] Array Functions Part 06 [ 6 Functions ]
+- [x] 068 - Array Functions Part 06 [ 4 Functions ]
 - [ ] Array Functions Part 07 [ 6 Functions ]
 - [ ] Array Functions Part 08 [ 6 Functions ]
 - [ ] Array Functions Part 09 [ 6 Functions ]
-- [ ] Array Functions Part 10 [ 6 Functions ]
-- [ ] Array Functions Part 11 [ 6 Functions ]
-- [ ] Array Functions Part 12 [ 6 Functions ]
