@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 70 From 150 ]
+[ 71 From 150 ]
 
-![46%](https://progress-bar.dev/46/?title=Done)
+![47%](https://progress-bar.dev/47/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -99,6 +99,5 @@
 - [x] 068 - Array_Shift, Array_Pop, Array_Push, Array_Unshift
 - [x] 069 - Array_Slice, Array_Splice
 - [x] 070 - Array Functions Part 08 [ 7 Functions ]
-- [ ] Array Functions Part 09 [ 6 Functions ]
-- [ ] Array_Map, Array_Filter
+- [x] 071 - Array_Map, Array_Filter
 - [ ] Array_Reduce
