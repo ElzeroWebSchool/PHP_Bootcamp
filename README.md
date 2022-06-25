@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 69 From 150 ]
+[ 70 From 150 ]
 
-![45%](https://progress-bar.dev/45/?title=Done)
+![46%](https://progress-bar.dev/46/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -98,7 +98,7 @@
 - [x] 067 - Array_Merge, Array_Replace, Array_Rand, Shuffle
 - [x] 068 - Array_Shift, Array_Pop, Array_Push, Array_Unshift
 - [x] 069 - Array_Slice, Array_Splice
-- [ ] Array Functions Part 08 [ 6 Functions ]
+- [x] 070 - Array Functions Part 08 [ 7 Functions ]
 - [ ] Array Functions Part 09 [ 6 Functions ]
 - [ ] Array_Map, Array_Filter
 - [ ] Array_Reduce
