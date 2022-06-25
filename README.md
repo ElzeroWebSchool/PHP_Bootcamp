@@ -91,13 +91,14 @@
 
 ### Built-In Functions => Array And Array Functions
 
-- [x] 063 - Array Functions Part 01 [ 4 Functions ]
-- [x] 064 - Array Functions Part 02 [ 5 Functions ]
-- [x] 065 - Array Functions Part 03 [ 5 Functions ]
-- [x] 066 - Current, Next, Prev, Reset, End
-- [x] 067 - Array_Merge, Array_Replace, Array_Rand, Shuffle
-- [x] 068 - Array_Shift, Array_Pop, Array_Push, Array_Unshift
-- [x] 069 - Array_Slice, Array_Splice
+- [ ] 063 - Index Array, Associative Array, Multidimensional Array
+- [x] 064 - Array Functions Part 01 [ 4 Functions ]
+- [x] 065 - Array Functions Part 02 [ 5 Functions ]
+- [x] 066 - Array Functions Part 03 [ 5 Functions ]
+- [x] 067 - Current, Next, Prev, Reset, End
+- [x] 068 - Array_Merge, Array_Replace, Array_Rand, Shuffle
+- [x] 069 - Array_Shift, Array_Pop, Array_Push, Array_Unshift
+- [x] 070 - Array_Slice, Array_Splice
 - [ ] Array Functions Part 08 [ 6 Functions ]
 - [ ] Array Functions Part 09 [ 6 Functions ]
 - [ ] Array_Map, Array_Filter
