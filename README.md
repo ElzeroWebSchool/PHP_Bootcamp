@@ -91,13 +91,26 @@
 
 ### Built-In Functions => Array And Array Functions
 
-- [x] 063 - Array Functions Part 01 [ 4 Functions ]
-- [x] 064 - Array Functions Part 02 [ 5 Functions ]
-- [x] 065 - Array Functions Part 03 [ 5 Functions ]
-- [x] 066 - Current, Next, Prev, Reset, End
-- [x] 067 - Array_Merge, Array_Replace, Array_Rand, Shuffle
-- [x] 068 - Array_Shift, Array_Pop, Array_Push, Array_Unshift
-- [x] 069 - Array_Slice, Array_Splice
-- [x] 070 - Array Functions Part 08 [ 7 Functions ]
-- [x] 071 - Array_Map, Array_Filter
-- [x] 072 - Array_Reduce
+- [x] `Uploaded` 063 - Array Functions Part 01 [ 4 Functions ]
+- [x] `Uploaded` 064 - Array Functions Part 02 [ 5 Functions ]
+- [x] `Uploaded` 065 - Array Functions Part 03 [ 5 Functions ]
+- [x] `Uploaded` 066 - Current, Next, Prev, Reset, End
+- [x] `Uploaded` 067 - Array_Merge, Array_Replace, Array_Rand, Shuffle
+- [x] `Uploaded` 068 - Array_Shift, Array_Pop, Array_Push, Array_Unshift
+- [x] `Uploaded` 069 - Array_Slice, Array_Splice
+- [x] `Uploaded` 070 - Array Functions Part 08 [ 7 Functions ]
+- [x] `Uploaded` 071 - Array_Map, Array_Filter
+- [x] `Uploaded` 072 - Array_Reduce
+
+### Built-In Functions => Math Functions
+
+- [ ] 073 - Math Functions Part 01 [ 4 Functions ]
+- [ ] 074 - Math Functions Part 02 [ 4 Functions ]
+- [ ] 075 - Math Functions Part 03 [ 4 Functions ]
+- [ ] 076 - Math Functions Part 04 [ 4 Functions ]
+- [ ] 077 - Math Functions Part 05 [ 4 Functions ]
+- [ ] 078 - Math Functions Part 06 [ 4 Functions ]
+- [ ] 079 - Math Functions Part 07 [ 4 Functions ]
+- [ ] 080 - Math Functions Part 08 [ 4 Functions ]
+
+### Built-In Functions => Filter Functions
