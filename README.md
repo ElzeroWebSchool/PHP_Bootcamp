@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 72 From 150 ]
+[ 73 From 150 ]
 
 ![48%](https://progress-bar.dev/48/?title=Done)
 
@@ -102,9 +102,9 @@
 - [x] `Uploaded` 071 - Array_Map, Array_Filter
 - [x] `Uploaded` 072 - Array_Reduce
 
-### Built-In Functions => Math Functions
+### Built-In Functions => Math Functions + Filter Functions
 
-- [ ] 073 - Math Functions Part 01 [ 4 Functions ]
+- [x] 073 - abs, mt_rand, mt_getrandmax, intdiv, fmod
 - [ ] 074 - Math Functions Part 02 [ 4 Functions ]
 - [ ] 075 - Math Functions Part 03 [ 4 Functions ]
 - [ ] 076 - Math Functions Part 04 [ 4 Functions ]
@@ -112,5 +112,3 @@
 - [ ] 078 - Math Functions Part 06 [ 4 Functions ]
 - [ ] 079 - Math Functions Part 07 [ 4 Functions ]
 - [ ] 080 - Math Functions Part 08 [ 4 Functions ]
-
-### Built-In Functions => Filter Functions
