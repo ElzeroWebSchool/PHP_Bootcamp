@@ -105,10 +105,10 @@
 ### Built-In Functions => Math Functions + Filter Functions
 
 - [x] 073 - abs, mt_rand, mt_getrandmax, intdiv, fmod
-- [ ] 074 - Math Functions Part 02 [ 4 Functions ]
-- [ ] 075 - Math Functions Part 03 [ 4 Functions ]
-- [ ] 076 - Math Functions Part 04 [ 4 Functions ]
-- [ ] 077 - Math Functions Part 05 [ 4 Functions ]
-- [ ] 078 - Math Functions Part 06 [ 4 Functions ]
-- [ ] 079 - Math Functions Part 07 [ 4 Functions ]
-- [ ] 080 - Math Functions Part 08 [ 4 Functions ]
+- [ ] 074 - ceil, floor
+- [ ] 075 - round
+- [ ] 076 - sqrt, min, max, is_nan
+- [ ] 077 - -
+- [ ] 078 - -
+- [ ] 079 - -
+- [ ] 080 - -
