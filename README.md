@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 73 From 150 ]
+[ 75 From 150 ]
 
-![48%](https://progress-bar.dev/48/?title=Done)
+![50%](https://progress-bar.dev/50/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -105,8 +105,8 @@
 ### Built-In Functions => Math Functions + Filter Functions
 
 - [x] 073 - abs, mt_rand, mt_getrandmax, intdiv, fmod
-- [ ] 074 - ceil, floor
-- [ ] 075 - round
+- [x] 074 - ceil, floor
+- [x] 075 - round
 - [ ] 076 - sqrt, min, max, is_nan
 - [ ] 077 - -
 - [ ] 078 - -
