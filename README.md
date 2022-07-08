@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 75 From 150 ]
+[ 76 From 150 ]
 
 ![50%](https://progress-bar.dev/50/?title=Done)
 
@@ -107,7 +107,7 @@
 - [x] 073 - abs, mt_rand, mt_getrandmax, intdiv, fmod
 - [x] 074 - ceil, floor
 - [x] 075 - round
-- [ ] 076 - sqrt, min, max, is_nan
+- [x] 076 - sqrt, min, max
 - [ ] 077 - -
 - [ ] 078 - -
 - [ ] 079 - -
