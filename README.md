@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 80 From 150 ]
+[ 81 From 150 ]
 
-![53%](https://progress-bar.dev/53/?title=Done)
+![54%](https://progress-bar.dev/54/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -112,6 +112,7 @@
 - [x] 078 - Filter_Var Validate Filters Part 1
 - [x] 079 - Filter_Var Validate Filters Part 2
 - [x] 080 - Filter_Var Sanitize Filters
+- [x] 081 - Filter_Input + Trainings
 
 
 ### File Systems
