@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 76 From 150 ]
+[ 80 From 150 ]
 
-![50%](https://progress-bar.dev/50/?title=Done)
+![53%](https://progress-bar.dev/53/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -108,10 +108,10 @@
 - [x] 074 - ceil, floor
 - [x] 075 - round
 - [x] 076 - sqrt, min, max
-- [ ] 077 - -
-- [ ] 078 - -
-- [ ] 079 - -
-- [ ] 080 - -
+- [x] 077 - Filter_List, Filter_Id, Filter_Var
+- [x] 078 - Filter_Var Validate Filters Part 1
+- [x] 079 - Filter_Var Validate Filters Part 2
+- [x] 080 - Filter_Var Sanitize Filters
 
 
 ### File Systems
