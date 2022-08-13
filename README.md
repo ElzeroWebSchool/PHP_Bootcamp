@@ -116,6 +116,18 @@
 
 
 ### File Systems
+
+- [ ] 082 - File System Functions Part 01 [ 5 Functions ]
+- [ ] 083 - 
+- [ ] 084 - 
+- [ ] 085 - 
+- [ ] 086 - 
+- [ ] 087 - 
+- [ ] 088 - 
+- [ ] 089 - 
+- [ ] 090 - 
+- [ ] 091 - 
+
 ### Cookie
 ### Sessions
 
