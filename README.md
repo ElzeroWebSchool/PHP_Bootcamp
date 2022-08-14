@@ -121,9 +121,9 @@
 - [x] 083 - Is_Dir, MkDir, RmDir
 - [x] 084 - FilePerms, Chmod, ClearStatCache
 - [x] 085 - BaseName, DirName, RealPath, PathInfo
-- [ ] 086 - 
-- [ ] 087 - 
-- [ ] 088 - 
+- [ ] 086 - FOpen, FClose, FGets Part 1
+- [ ] 087 - FOpen, FClose, FGets Part 2
+- [ ] 088 - File_Get_Contents, File_Put_Contents
 - [ ] 089 - 
 - [ ] 090 - 
 - [ ] 091 - 
