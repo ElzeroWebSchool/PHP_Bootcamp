@@ -118,7 +118,7 @@
 ### File Systems
 
 - [x] 082 - File System Functions Part 01 [ 4 Functions ]
-- [ ] 083 - File System Functions Part 02 [ 5 Functions ]
+- [x] 083 - Is_Dir, MkDir, RmDir
 - [ ] 084 - 
 - [ ] 085 - 
 - [ ] 086 - 
