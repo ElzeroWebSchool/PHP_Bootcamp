@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 82 From 150 ]
+[ 84 From 150 ]
 
-![54%](https://progress-bar.dev/54/?title=Done)
+![56%](https://progress-bar.dev/56/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -119,7 +119,7 @@
 
 - [x] 082 - File System Functions Part 01 [ 4 Functions ]
 - [x] 083 - Is_Dir, MkDir, RmDir
-- [ ] 084 - 
+- [x] 084 - FilePerms, Chmod, ClearStatCache
 - [ ] 085 - 
 - [ ] 086 - 
 - [ ] 087 - 
