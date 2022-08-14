@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 84 From 150 ]
+[ 85 From 150 ]
 
 ![56%](https://progress-bar.dev/56/?title=Done)
 
@@ -120,7 +120,7 @@
 - [x] 082 - File System Functions Part 01 [ 4 Functions ]
 - [x] 083 - Is_Dir, MkDir, RmDir
 - [x] 084 - FilePerms, Chmod, ClearStatCache
-- [ ] 085 - 
+- [x] 085 - BaseName, DirName, RealPath, PathInfo
 - [ ] 086 - 
 - [ ] 087 - 
 - [ ] 088 - 
