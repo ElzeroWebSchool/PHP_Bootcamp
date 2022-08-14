@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 81 From 150 ]
+[ 82 From 150 ]
 
 ![54%](https://progress-bar.dev/54/?title=Done)
 
@@ -117,8 +117,8 @@
 
 ### File Systems
 
-- [ ] 082 - File System Functions Part 01 [ 5 Functions ]
-- [ ] 083 - 
+- [x] 082 - File System Functions Part 01 [ 4 Functions ]
+- [ ] 083 - File System Functions Part 02 [ 5 Functions ]
 - [ ] 084 - 
 - [ ] 085 - 
 - [ ] 086 - 
