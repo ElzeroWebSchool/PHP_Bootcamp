@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 87 From 150 ]
+[ 88 From 150 ]
 
 ![58%](https://progress-bar.dev/58/?title=Done)
 
@@ -104,15 +104,15 @@
 
 ### Built-In Functions => Math Functions + Filter Functions
 
-- [x] 073 - abs, mt_rand, mt_getrandmax, intdiv, fmod
-- [x] 074 - ceil, floor
-- [x] 075 - round
-- [x] 076 - sqrt, min, max
-- [x] 077 - Filter_List, Filter_Id, Filter_Var
-- [x] 078 - Filter_Var Validate Filters Part 1
-- [x] 079 - Filter_Var Validate Filters Part 2
-- [x] 080 - Filter_Var Sanitize Filters
-- [x] 081 - Filter_Input + Trainings
+- [x] `Uploaded` 073 - abs, mt_rand, mt_getrandmax, intdiv, fmod
+- [x] `Uploaded` 074 - ceil, floor
+- [x] `Uploaded` 075 - round
+- [x] `Uploaded` 076 - sqrt, min, max
+- [x] `Uploaded` 077 - Filter_List, Filter_Id, Filter_Var
+- [x] `Uploaded` 078 - Filter_Var Validate Filters Part 1
+- [x] `Uploaded` 079 - Filter_Var Validate Filters Part 2
+- [x] `Uploaded` 080 - Filter_Var Sanitize Filters
+- [x] `Uploaded` 081 - Filter_Input + Trainings
 
 
 ### File Systems
@@ -123,7 +123,7 @@
 - [x] 085 - BaseName, DirName, RealPath, PathInfo
 - [x] 086 - Fopen Part 1 - Fgets, Fread, Fclose
 - [x] 087 - Fopen Part 2 - Fwrite
-- [ ] 088 - 
+- [x] 088 - Fopen Part 3 - File, Feof And Loop Trainings
 - [ ] 089 - 
 - [ ] 090 - 
 - [ ] 091 - File_Get_Contents, File_Put_Contents
