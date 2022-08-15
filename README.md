@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 88 From 150 ]
+[ 89 From 150 ]
 
-![58%](https://progress-bar.dev/58/?title=Done)
+![59%](https://progress-bar.dev/59/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -124,7 +124,7 @@
 - [x] 086 - Fopen Part 1 - Fgets, Fread, Fclose
 - [x] 087 - Fopen Part 2 - Fwrite
 - [x] 088 - Fopen Part 3 - File, Feof And Loop Trainings
-- [ ] 089 - Fopen Part 4 - Fseek, Ftell, Rewind
+- [x] 089 - Fseek, Ftell, Rewind
 - [ ] 090 - Glob, Copy, Delete, Rename
 - [ ] 091 - 
 - [ ] 092 -
