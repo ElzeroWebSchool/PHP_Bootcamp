@@ -115,7 +115,7 @@
 - [x] `Uploaded` 081 - Filter_Input + Trainings
 
 
-### File Systems
+### File System Functions
 
 - [x] 082 - File System Functions Part 01 [ 4 Functions ]
 - [x] 083 - Is_Dir, MkDir, RmDir
@@ -125,7 +125,7 @@
 - [x] 087 - Fopen Part 2 - Fwrite
 - [x] 088 - Fopen Part 3 - File, Feof And Loop Trainings
 - [x] 089 - Fseek, Ftell, Rewind
-- [ ] 090 - Glob, Copy, Delete, Rename
+- [ ] 090 - Glob, Copy, Delete, Rename, Ftruncate
 - [ ] 091 - 
 - [ ] 092 -
 - [ ] 093 - File_Get_Contents, File_Put_Contents
