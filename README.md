@@ -124,9 +124,11 @@
 - [x] 086 - Fopen Part 1 - Fgets, Fread, Fclose
 - [x] 087 - Fopen Part 2 - Fwrite
 - [x] 088 - Fopen Part 3 - File, Feof And Loop Trainings
-- [ ] 089 - 
-- [ ] 090 - 
-- [ ] 091 - File_Get_Contents, File_Put_Contents
+- [ ] 089 - Fopen Part 4 - Fseek, Ftell, Rewind
+- [ ] 090 - Glob, Copy, Delete, Rename
+- [ ] 091 - 
+- [ ] 092 -
+- [ ] 093 - File_Get_Contents, File_Put_Contents
 
 ### Cookie
 ### Sessions
