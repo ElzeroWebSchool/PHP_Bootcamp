@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 85 From 150 ]
+[ 87 From 150 ]
 
-![56%](https://progress-bar.dev/56/?title=Done)
+![58%](https://progress-bar.dev/58/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -121,12 +121,12 @@
 - [x] 083 - Is_Dir, MkDir, RmDir
 - [x] 084 - FilePerms, Chmod, ClearStatCache
 - [x] 085 - BaseName, DirName, RealPath, PathInfo
-- [ ] 086 - FOpen, FClose, FGets Part 1
-- [ ] 087 - FOpen, FClose, FGets Part 2
-- [ ] 088 - File_Get_Contents, File_Put_Contents
+- [x] 086 - Fopen Part 1 - Fgets, Fread, Fclose
+- [x] 087 - Fopen Part 2 - Fwrite
+- [ ] 088 - 
 - [ ] 089 - 
 - [ ] 090 - 
-- [ ] 091 - 
+- [ ] 091 - File_Get_Contents, File_Put_Contents
 
 ### Cookie
 ### Sessions
