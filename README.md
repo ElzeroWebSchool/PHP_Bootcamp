@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 90 From 150 ]
+[ 91 From 150 ]
 
 ![60%](https://progress-bar.dev/60/?title=Done)
 
@@ -126,9 +126,7 @@
 - [x] 088 - Fopen Part 3 - File, Feof And Loop Trainings
 - [x] 089 - Fseek, Ftell, Rewind
 - [x] 090 - Glob, Rename, Copy, Unlink
-- [ ] 091 - 
-- [ ] 092 -
-- [ ] 093 - File_Get_Contents, File_Put_Contents
+- [x] 091 - File_Get_Contents, File_Put_Contents
 
 ### Cookie
 ### Sessions
