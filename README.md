@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 89 From 150 ]
+[ 90 From 150 ]
 
-![59%](https://progress-bar.dev/59/?title=Done)
+![60%](https://progress-bar.dev/60/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -125,7 +125,7 @@
 - [x] 087 - Fopen Part 2 - Fwrite
 - [x] 088 - Fopen Part 3 - File, Feof And Loop Trainings
 - [x] 089 - Fseek, Ftell, Rewind
-- [ ] 090 - Glob, Copy, Delete, Rename, Ftruncate
+- [x] 090 - Glob, Rename, Copy, Unlink
 - [ ] 091 - 
 - [ ] 092 -
 - [ ] 093 - File_Get_Contents, File_Put_Contents
