@@ -130,6 +130,52 @@
 
 ### Date And Time Functions
 
+- [ ] Discussion About Date And Time Using
+- [ ] Time Zones And Discussions
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+
 ### Cookie
 ### Sessions
 
+### Object Orientes Programming
+
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+
+### Model, View, Controller
+
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
