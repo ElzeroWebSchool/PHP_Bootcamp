@@ -143,7 +143,7 @@
 ### Cookie
 ### Sessions
 
-### Object Orientes Programming
+### Object Oriented Programming
 
 - [ ] .
 - [ ] .
