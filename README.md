@@ -117,22 +117,22 @@
 
 ### File System Functions
 
-- [x] 082 - File System Functions Part 01 [ 4 Functions ]
-- [x] 083 - Is_Dir, MkDir, RmDir
-- [x] 084 - FilePerms, Chmod, ClearStatCache
-- [x] 085 - BaseName, DirName, RealPath, PathInfo
-- [x] 086 - Fopen Part 1 - Fgets, Fread, Fclose
-- [x] 087 - Fopen Part 2 - Fwrite
-- [x] 088 - Fopen Part 3 - File, Feof And Loop Trainings
-- [x] 089 - Fseek, Ftell, Rewind
-- [x] 090 - Glob, Rename, Copy, Unlink
-- [x] 091 - File_Get_Contents, File_Put_Contents
+- [x] `Uploaded` 082 - File System Functions Part 01 [ 4 Functions ]
+- [x] `Uploaded` 083 - Is_Dir, MkDir, RmDir
+- [x] `Uploaded` 084 - FilePerms, Chmod, ClearStatCache
+- [x] `Uploaded` 085 - BaseName, DirName, RealPath, PathInfo
+- [x] `Uploaded` 086 - Fopen Part 1 - Fgets, Fread, Fclose
+- [x] `Uploaded` 087 - Fopen Part 2 - Fwrite
+- [x] `Uploaded` 088 - Fopen Part 3 - File, Feof And Loop Trainings
+- [x] `Uploaded` 089 - Fseek, Ftell, Rewind
+- [x] `Uploaded` 090 - Glob, Rename, Copy, Unlink
+- [x] `Uploaded` 091 - File_Get_Contents, File_Put_Contents
 
 ### Date And Time Functions
 
-- [x] Date & Time Functions Part 1 - Five Functions
-- [ ] Date & Time Functions Part 2 Formatting
-- [ ] 
+- [x] Date & Time Functions Part 1 Five Functions
+- [ ] Date & Time Functions Part 2 Formatting Part One
+- [ ] Date & Time Functions Part 3 Formatting Part Two
 - [ ] .
 - [ ] .
 - [ ] .
