@@ -131,7 +131,8 @@
 ### Date And Time Functions
 
 - [x] Date & Time Functions Part 1 - Five Functions
-- [ ] Date Formatting
+- [ ] Date & Time Functions Part 2 Formatting
+- [ ] 
 - [ ] .
 - [ ] .
 - [ ] .
