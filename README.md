@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 91 From 150 ]
+[ 92 From 150 ]
 
-![60%](https://progress-bar.dev/60/?title=Done)
+![61%](https://progress-bar.dev/61/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -130,8 +130,8 @@
 
 ### Date And Time Functions
 
-- [ ] Discussion About Date And Time Using
-- [ ] Time Zones And Discussions
+- [x] Date & Time Functions Part 1 - Five Functions
+- [ ] Date Formatting
 - [ ] .
 - [ ] .
 - [ ] .
