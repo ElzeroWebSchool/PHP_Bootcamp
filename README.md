@@ -2,7 +2,7 @@
 
 # PHP Bootcamp Content
 
-[ 95 From 150 ]
+[ 96 From 150 ]
 
 ![63%](https://progress-bar.dev/63/?title=Done)
 
@@ -134,7 +134,7 @@
 - [x] 093 - Date & Time Functions Part 2 Formatting Part One
 - [x] 094 - Date & Time Functions Part 3 Formatting Part Two
 - [x] 095 - Date & Time Functions Part 4 Add, Sub, Modify
-- [ ] .
+- [x] 096 - Date & Time Functions Part 5 Time, Get_Date, Date_Parse
 - [ ] .
 - [ ] .
 - [ ] .
