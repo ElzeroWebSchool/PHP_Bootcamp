@@ -153,6 +153,14 @@
 - [ ] 109 - .
 - [ ] 110 - .
 
+### Errors & Exceptions
+
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+
 ### Object Oriented Programming
 
 - [ ] .
