@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 97 From 150 ]
+[ 98 From 150 ]
 
-![64%](https://progress-bar.dev/64/?title=Done)
+![65%](https://progress-bar.dev/65/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -139,11 +139,11 @@
 
 ### Network => Cookies, Sessions And Redirect
 
-- [ ] 098 - What Is Cookies ? And How To Use It
-- [ ] 099 - Check, Edit And Delete Cookies
-- [ ] 100 - Color Save Practice On Cookies
-- [ ] 101 - What Is Session ?
-- [ ] 102 - .
+- [x] 098 - How To Use Cookies ? Part 1
+- [ ] 099 - How To Use Cookies ? Part 2
+- [ ] 100 - Check, Edit And Delete Cookies
+- [ ] 101 - Color Save Practice On Cookies
+- [ ] 102 - What Is Session ?
 - [ ] 103 - .
 - [ ] 104 - .
 - [ ] 105 - .
