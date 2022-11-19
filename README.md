@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 101 From 150 ]
+[ 103 From 150 ]
 
-![67%](https://progress-bar.dev/67/?title=Done)
+![68%](https://progress-bar.dev/68/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -143,9 +143,9 @@
 - [x] 099 - How To Use Cookies ? Part 2
 - [x] 100 - Cookies Edit And Delete And Add Array
 - [x] 101 - Cookies Training On Color Save
-- [ ] 102 - What Is Session ?
-- [ ] 103 - Session Modify And Destroy
-- [ ] 104 - Session Training
+- [x] 102 - Session Introduction
+- [x] 103 - Session Modify And Practice
+- [ ] 104 - Session Destory & Login Simulation 
 - [ ] 105 - .
 - [ ] 106 - .
 - [ ] 107 - .
