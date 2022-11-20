@@ -2,9 +2,9 @@
 
 # PHP Bootcamp Content
 
-[ 103 From 150 ]
+[ 105 From 150 ]
 
-![68%](https://progress-bar.dev/68/?title=Done)
+![70%](https://progress-bar.dev/70/?title=Done)
 
 ### Introduction, Syntax And Fundamentals
 
@@ -145,12 +145,12 @@
 - [x] 101 - Cookies Training On Color Save
 - [x] 102 - Session Introduction
 - [x] 103 - Session Modify And Practice
-- [ ] 104 - Session Destory & Login Simulation 
-- [ ] 105 - .
+- [x] 104 - Session Destory & Login Simulation 
+- [x] 105 - Header And Redirect
 - [ ] 106 - .
 - [ ] 107 - .
 - [ ] 108 - .
-- [ ] 109 - Redirecting
+- [ ] 109 - .
 - [ ] 110 - .
 
 ### Errors & Exceptions
